@@ -1,5 +1,7 @@
 # Effective Retrospective
 
+http://www.ryuzee.com/contents/blog/7107
+
 * アジャイル開発である必要はない
 
 ## 目的
